@@ -6,7 +6,7 @@
 
 ### Task 1: Add a new user
 * **Action:** Created the `researcher9` user account and assigned them to the `research_team` primary group.
-* **Evidence:** ![Task 1 - Add User.png](Task1.png)
+* **Evidence:** ![Task 1 - Add User.png](task1.png)
 
 ### Task 2: Assign file ownership
 * **Action:** Transferred ownership of `/home/researcher2/projects/project_r.txt` to `researcher9`.
