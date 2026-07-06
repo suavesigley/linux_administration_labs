@@ -17,4 +17,4 @@ Effective identity management is a critical pillar of a Security Operations Cent
 *   **Commands:** `useradd`, `usermod`, `chown`, `userdel`, `groupdel`
 *   **Methodology:** Principles of Least Privilege, System Hardening
 
-[View Detailed Technical Lab Report](LAB_REPORT.md)
+[View Detailed Technical Lab Report](lab_report.md)
